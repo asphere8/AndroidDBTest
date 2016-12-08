@@ -1,0 +1,7 @@
+#Thu Dec 08 19:08:32 UTC 2016
+base.0=/home/kahdek/AndroidStudioProjects/DBTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38f9d96debeddab158425b16a9caf0fc11c2711c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kahdek/AndroidStudioProjects/DBTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5a58c105de3aff91b639f63aa14734e35769b929/classes.dex
+base.1=/home/kahdek/AndroidStudioProjects/DBTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5a58c105de3aff91b639f63aa14734e35769b929
+file.0=/home/kahdek/AndroidStudioProjects/DBTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38f9d96debeddab158425b16a9caf0fc11c2711c/classes.dex
